@@ -1,0 +1,12 @@
+﻿# Exoplanet Detector — Sample Target List
+# One target per line. Lines starting with # are ignored.
+# Supported formats: star name, TIC ID, TOI designation
+
+# Confirmed exoplanets (good for testing the pipeline)
+TOI-700        # M-dwarf with confirmed Earth-size planet in habitable zone
+LHS 1140       # Nearby M-dwarf with super-Earth (LHS 1140 b)
+L 98-59        # Multi-planet M-dwarf system
+
+# Unconfirmed / interesting candidates
+TIC 251456914
+TOI-1338       # Circumbinary planet system
